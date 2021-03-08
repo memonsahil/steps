@@ -19,7 +19,7 @@
     "react-native-elements": "^3.2.0",
     "react-native-gesture-handler": "^1.10.2",
     "react-native-progress": "^4.1.2",
-    "react-native-reanimated": "^1.13.2",
+    "react-native-reanimated": "^2.0.0",
     "react-native-responsive-fontsize": "^0.5.0",
     "react-native-responsive-screen": "^1.4.2",
     "react-native-safe-area-context": "^3.1.9",
