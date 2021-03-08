@@ -64,7 +64,7 @@ const GoalsListScreen = () => {
       bounces={false}
       showsVerticalScrollIndicator={false}
       data={goals}
-      keyExtractor={(item) => item.id}
+      keyExtractor={(item) => item.id.toString()}
       renderItem={({ item }) => (
         <>
           <View style={styles.contentRegion}>
